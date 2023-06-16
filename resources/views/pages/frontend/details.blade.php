@@ -8,7 +8,7 @@
     <div class="container mx-auto">
       <ul class="breadcrumb">
         <li>
-          <a href="index.html">Home</a>
+          <a href="{{route('index')}}">Home</a>
         </li>
         <li>
           <a href="#">Office Room</a>
@@ -108,7 +108,7 @@
         <p class="text-xl">IDR 12.000.000</p>
 
         <a
-          href="cart.html"
+          href="{{route('cart')}}"
           class="transition-all duration-200 bg-pink-400 text-black focus:bg-black focus:text-pink-400 rounded-full px-8 py-3 mt-4 inline-flex"
           ><svg
             class="fill-current mr-3"

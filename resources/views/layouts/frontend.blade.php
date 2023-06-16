@@ -15,7 +15,7 @@
     <link rel="apple-touch-icon" href="/frontend/images/content/favicon.png" />
     <!-- Place favicon.ico in the root directory -->
 
-    <link rel="stylesheet" href="./frontend/css/main.css" />
+    <link rel="stylesheet" href="/frontend/css/app.css" />
     <link rel="icon" href="/frontend/images/content/favicon.png" />
 
     <meta name="theme-color" content="#000" />
@@ -54,5 +54,5 @@
       ga("send", "pageview");
     </script>
     <script src="https://www.google-analytics.com/analytics.js" async></script>
-  <script src="js/app.js"></script></body>
+  <script src="/frontend/js/app.js"></script></body>
 </html>
